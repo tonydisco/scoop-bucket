@@ -1,0 +1,15 @@
+{
+    "version": "0.5.4",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/tonydisco/claude-usage/releases/download/v0.5.4/claude-usage_0.5.4_Windows_x86_64.zip",
+            "bin": [
+                "claude-usage.exe"
+            ],
+            "hash": "863b25b0ca9d6ca6bf9309ea57f2b2ae95232343de78f119d81aed236dbcadc3"
+        }
+    },
+    "homepage": "https://github.com/tonydisco/claude-usage",
+    "license": "MIT",
+    "description": "Know how much of your Claude.ai plan you've burned — from your terminal."
+}
