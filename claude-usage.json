@@ -1,12 +1,12 @@
 {
-    "version": "0.6.5",
+    "version": "0.6.6",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/tonydisco/claude-usage/releases/download/v0.6.5/claude-usage_0.6.5_Windows_x86_64.zip",
+            "url": "https://github.com/tonydisco/claude-usage/releases/download/v0.6.6/claude-usage_0.6.6_Windows_x86_64.zip",
             "bin": [
                 "claude-usage.exe"
             ],
-            "hash": "f340f915ae30eae6bb0c21b4060b590981d713ae760eb51380851673d514d5a3"
+            "hash": "c7ce7798fc272ce3d433ebd726382b0c5ee1ae88b05e253ad9b9475fa056f3ed"
         }
     },
     "homepage": "https://github.com/tonydisco/claude-usage",
